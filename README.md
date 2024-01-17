@@ -51,17 +51,17 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 6.	J. Qian, P. Duan and Z. Duan, Fully distributed filtering with a stochastic event-triggered mechanism, IEEE Transactions on Control of Network Systems, vol. 9, no. 2, pp. 753-762, 2022.
  
 **Conference Paper**
-1	P. Duan, J. Qian, Y. Lv, and T. Liu, Self-organization output regulation control, The 5th IEEE International Conference on Unmanned Systems, Guangzhou, China, 2022. (Best Paper Award)
-2	Z. Li, J. Qian and Z. Duan, Distributed multi-layer time-varying output formation tracking control for heterogeneous linear multiagent systems, Proceedings of the 33rd Chinese Control and Decision Conference, Yunnan, 2021.
-3	J. Qian, P. Duan, and Z. Duan, Optimal observation geometry analysis for multi-Sensor system in 3D case, International Conference on Guidance, Navigation and Control, Tianjin, 2020. 
+1.	P. Duan, J. Qian, Y. Lv, and T. Liu, Self-organization output regulation control, The 5th IEEE International Conference on Unmanned Systems, Guangzhou, China, 2022. (Best Paper Award)
+2.	Z. Li, J. Qian and Z. Duan, Distributed multi-layer time-varying output formation tracking control for heterogeneous linear multiagent systems, Proceedings of the 33rd Chinese Control and Decision Conference, Yunnan, 2021.
+3.	J. Qian, P. Duan, and Z. Duan, Optimal observation geometry analysis for multi-Sensor system in 3D case, International Conference on Guidance, Navigation and Control, Tianjin, 2020. 
 
 ## Journal Review
--Automatica
--IEEE Transactions on Automatic Control
--IEEE Transactions on Control of Network Systems
--IEEE Transactions on Cybernetics
--IEEE Transactions on Systems, Man, and Cybernetics: Systems
--International Journal of Robust and Nonlinear Control
+- Automatica
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Control of Network Systems
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- International Journal of Robust and Nonlinear Control
 
 
 ## Main Research
