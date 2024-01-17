@@ -24,10 +24,44 @@ Hong Kong University of Science and Technology, May 2019 – Aug. 2019,
 Supervisor: Prof. Ling Shi.
 
 ## Project Experience
-**Participant**	National Natural Science Foundation of China under Grants No. T2121002, “Cooperative Control and Decision of Unmanned Cluster System”.
+**Participant**	
 
-**Participant** 	National Key Research and Development Program of China under Grant 2017YFB1301001, “Industrial Robot Controller Product with Performance Optimization and Intelligence Upgrade”. 
+National Natural Science Foundation of China under Grants No. T2121002, “Cooperative Control and Decision of Unmanned Cluster System”.
 
+**Participant** 	
+
+National Key Research and Development Program of China under Grant 2017YFB1301001, “Industrial Robot Controller Product with Performance Optimization and Intelligence Upgrade”. 
+
+## Publications
+**Journal Paper**
+1.	J. Qian, P. Duan, and Z. Duan, Harmonic-copuled Riccati equations and its applications in distributed filtering. (Provisionally accepted as Regular Paper by IEEE TAC)
+2.	J. Qian, Z. Duan, P. Duan, and Z. Li, Observation of periodic systems: Bridge centralized Kalman filtering and consensus-based distributed filtering, IEEE Transactions on Automatic Control, in press, Jun. 2023.
+3.	J. Qian, P. Duan, Z. Duan, and L. Shi, Event-triggered distributed state estimation: A conditional expectation method, IEEE Transactions on Automatic Control, vol.68, no.10, pp. 6361-6368, Oct. 2023.
+4.	J. Qian, P. Duan, Z. Duan, G. Chen, and L. Shi, Consensus-based distributed filtering with fusion step analysis, Automatica, vol. 142, pp. 110408, 2022.
+5.	P. Duan, J. Qian, Q. Wang, Z. Duan and L. Shi, Distributed state estimation for continuous-time linear systems with correlated measurement noise, IEEE Transactions on Automatic Control, vol. 67, no. 9, pp. 4614-4628, 2022. (Full paper)
+6.	J. Qian, P. Duan and Z. Duan, Fully distributed filtering with a stochastic event-triggered mechanism, IEEE Transactions on Control of Network Systems, vol. 9, no. 2, pp. 753-762, 2022.
+ 
+**Conference Paper**
+1.	P. Duan, J. Qian, Y. Lv, and T. Liu, Self-organization output regulation control, The 5th IEEE International Conference on Unmanned Systems, Guangzhou, China, 2022. (Best Paper Award)
+2.	Z. Li, J. Qian and Z. Duan, Distributed multi-layer time-varying output formation tracking control for heterogeneous linear multiagent systems, Proceedings of the 33rd Chinese Control and Decision Conference, Yunnan, 2021.
+3.	J. Qian, P. Duan, and Z. Duan, Optimal observation geometry analysis for multi-Sensor system in 3D case, International Conference on Guidance, Navigation and Control, Tianjin, 2020.
+
+## Awards
+-	Best Paper Award, IEEE ICUS 2022
+-	National Scholarship, 2023
+-	President Scholarship, Peking University
+- Top Ten Student Scholars, College of Engineering, Peking University
+-	Benz Scholarship, Peking University
+-	May Fourth Scholarship, Peking University
+
+## Journal Review
+
+- Automatica
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Control of Network Systems
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- International Journal of Robust and Nonlinear Control
 
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -53,36 +87,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-## Publications
-**Journal Paper**
-1.	J. Qian, P. Duan, and Z. Duan, Harmonic-copuled Riccati equations and its applications in distributed filtering. (Provisionally accepted as Regular Paper by IEEE TAC)
-2.	J. Qian, Z. Duan, P. Duan, and Z. Li, Observation of periodic systems: Bridge centralized Kalman filtering and consensus-based distributed filtering, IEEE Transactions on Automatic Control, in press, Jun. 2023.
-3.	J. Qian, P. Duan, Z. Duan, and L. Shi, Event-triggered distributed state estimation: A conditional expectation method, IEEE Transactions on Automatic Control, vol.68, no.10, pp. 6361-6368, Oct. 2023.
-4.	J. Qian, P. Duan, Z. Duan, G. Chen, and L. Shi, Consensus-based distributed filtering with fusion step analysis, Automatica, vol. 142, pp. 110408, 2022.
-5.	P. Duan, J. Qian, Q. Wang, Z. Duan and L. Shi, Distributed state estimation for continuous-time linear systems with correlated measurement noise, IEEE Transactions on Automatic Control, vol. 67, no. 9, pp. 4614-4628, 2022. (Full paper)
-6.	J. Qian, P. Duan and Z. Duan, Fully distributed filtering with a stochastic event-triggered mechanism, IEEE Transactions on Control of Network Systems, vol. 9, no. 2, pp. 753-762, 2022.
  
-**Conference Paper**
-1.	P. Duan, J. Qian, Y. Lv, and T. Liu, Self-organization output regulation control, The 5th IEEE International Conference on Unmanned Systems, Guangzhou, China, 2022. (Best Paper Award)
-2.	Z. Li, J. Qian and Z. Duan, Distributed multi-layer time-varying output formation tracking control for heterogeneous linear multiagent systems, Proceedings of the 33rd Chinese Control and Decision Conference, Yunnan, 2021.
-3.	J. Qian, P. Duan, and Z. Duan, Optimal observation geometry analysis for multi-Sensor system in 3D case, International Conference on Guidance, Navigation and Control, Tianjin, 2020. 
 
-## Awards
--	Best Paper Award, IEEE ICUS 2022
--	National Scholarship, 2023
--	President Scholarship, Peking University
-- Top Ten Student Scholars, College of Engineering, Peking University
--	Benz Scholarship, Peking University
--	May Fourth Scholarship, Peking University
 
-## Journal Review
-
-- Automatica
-- IEEE Transactions on Automatic Control
-- IEEE Transactions on Control of Network Systems
-- IEEE Transactions on Cybernetics
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems
-- International Journal of Robust and Nonlinear Control
 
 
 
@@ -98,7 +105,9 @@ For consensus-based distributed filtering, one common view is that through infin
 
 ## Future Work
 **Data-Driven Cooperative Control**
+While for practical applications, each agent maynot explicitly know the expression of the matrix $B_i$, i.e., each agent have no idea of the impact of its own control input on the target system. It is impossible for the agent to identify the model or design control law only with local input and system state data. The problem is
 
+The essential problems is to handle unknown input to the target system through cooperation.
 **The Information Fusion social network**
 
 - [Data Science Blog](https://medium.com/@shawhin)
