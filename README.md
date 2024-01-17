@@ -42,6 +42,7 @@ National Key Research and Development Program of China under Grant 2017YFB130100
 6.	J. Qian, P. Duan and Z. Duan, Fully distributed filtering with a stochastic event-triggered mechanism, IEEE Transactions on Control of Network Systems, vol. 9, no. 2, pp. 753-762, 2022.
  
 **Conference Paper**
+
 1.	P. Duan, J. Qian, Y. Lv, and T. Liu, Self-organization output regulation control, The 5th IEEE International Conference on Unmanned Systems, Guangzhou, China, 2022. (Best Paper Award)
 2.	Z. Li, J. Qian and Z. Duan, Distributed multi-layer time-varying output formation tracking control for heterogeneous linear multiagent systems, Proceedings of the 33rd Chinese Control and Decision Conference, Yunnan, 2021.
 3.	J. Qian, P. Duan, and Z. Duan, Optimal observation geometry analysis for multi-Sensor system in 3D case, International Conference on Guidance, Navigation and Control, Tianjin, 2020.
@@ -104,10 +105,14 @@ One of the common problems in distributed filtering is the lack of mathematical 
 For consensus-based distributed filtering, one common view is that through infinite consensus fusion operations during each sampling interval, each node in the sensor network can achieve optimal filtering performance with centralized filtering. However, due to the limited communication resources in physical systems, the number of fusion steps cannot be infinite. Due to the lack of enough mathematical tools, the literature is not able to clearly describe the effect of finite fusion step on the performance of distributed filtering algorithm, especially on the gap between distributed and centralized filtering. In this work, we concentrate on the optimality analysis of consensus-based filtering, especially the performance degradation analysis of consensus-on-measurement-based filtering (CMDF) algorithm with finite consensus fusion operations. First, by introducing a modified discrete-time algebraic Riccati equation and several novel techniques, we demonstrate that the convergence of the estimation error covariance matrix with the increase of time step is guaranteed under a collective observability condition. In particular, the steady-state covariance matrix can be simplified as the solution to a discrete-time Lyapunov equation. Moreover, we manage to formulate the performance degradation induced by reduced fusion frequency in the infinite series form, which establishes an analytical gap between the performance of the CMDF with finite fusion steps and that of centralized filtering. Meanwhile, this gap also provides a trade-off between the filtering performance and the communication cost. We further show that the steady-state estimation error covariance matrix exponentially converges to the centralized optimal steady-state performance with fusion operations tending to infinity during each sampling interval, and the convergence speed is not slower than the norm of the second largest eigenvalue of the adjacency matrix corresponding to the communication topology. 
 
 ## Future Work
-**Data-Driven Cooperative Control**
+**Design Data-Driven Cooperative Control Framework**
+
 While for practical applications, each agent maynot explicitly know the expression of the matrix $B_i$, i.e., each agent have no idea of the impact of its own control input on the target system. It is impossible for the agent to identify the model or design control law only with local input and system state data. The problem is
 
 The essential problems is to handle unknown input to the target system through cooperation.
-**The Information Fusion social network**
 
+**Model the Information Fusion in Social Network**
+
+In this work, we want to find some connections between the dynamic of social network opinion and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinion in a distributed way, which is similar to that each sensor node in distributed sensor network . Hence,   
+If it is possible to model the information fusion process in social network with the distributed filtering framework, considering the effect of uncertainty and 
 - [Data Science Blog](https://medium.com/@shawhin)
