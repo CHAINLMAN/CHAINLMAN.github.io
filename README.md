@@ -1,6 +1,13 @@
-# Data Scientist
+# Ph.D. Candidate	
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Phone: (+86) 188-0012-6636
+College of Engineering	
+Email: jcq@pku.edu.cn 
+Peking University, China	
+
+
+#### Research Interest: Cooperative State Estimation	Algebraic Riccati Equations	Multi-Agent System Cooperative Control	Data-Driven Control	
+
 
 ## Education
 - Ph.D. Candidate,	Dynamical Systems and Control | College of Engineering, Peking University, September 2019 - present.
