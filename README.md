@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D. Candidate,	Dynamical Systems and Control | College of Engineering, Peking University, September 2019 - present.
+Supervisor: Prof. Zhisheng Duan.
+- B.S.,	Theoretical and Applied Mechanics | College of Engineering, Peking University, September 2015 - July 2019.
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
