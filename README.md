@@ -6,7 +6,10 @@ Email: jcq@pku.edu.cn
 Peking University, China	
 
 
-#### Research Interest: Cooperative State Estimation	Algebraic Riccati Equations	Multi-Agent System Cooperative Control	Data-Driven Control	
+#### Research Interest: 
+Cooperative State Estimation,	Algebraic Riccati Equation,	Multi-Agent System,
+
+Cooperative Control,	Data-Driven Control	
 
 
 ## Education
