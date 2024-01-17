@@ -113,6 +113,6 @@ The essential problems is to handle unknown input to the target system through c
 
 **Model the Information Fusion in Social Network**
 
-In this work, we want to find some connections between the dynamic of social network opinion and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinion in a distributed way, which is similar to that each sensor node in distributed sensor network . Hence,   
-If it is possible to model the information fusion process in social network with the distributed filtering framework, considering the effect of uncertainty and 
+In this work, we want to find some connections between the dynamic of social network opinion and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinion on some event in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence to with limited local information. Hence, our main concern is that   
+if it is possible to model the information fusion process in social network with the distributed filtering framework, considering the effect of uncertainty and 
 - [Data Science Blog](https://medium.com/@shawhin)
