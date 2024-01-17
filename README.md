@@ -18,15 +18,17 @@ Supervisor: Prof. Zhisheng Duan.
 - B.S.,	Theoretical and Applied Mechanics | College of Engineering, Peking University, September 2015 - July 2019.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Assistant**	
+Department of Electronic and Computer Engineering, 
+Hong Kong University of Science and Technology, May 2019 – Aug. 2019, 
+Supervisor: Prof. Ling Shi.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Project Experience
+**Participant**	National Natural Science Foundation of China under Grants No. T2121002, “Cooperative Control and Decision of Unmanned Cluster System”.
 
-## Projects
+**Participant** 	National Key Research and Development Program of China under Grant 2017YFB1301001, “Industrial Robot Controller Product with Performance Optimization and Intelligence Upgrade”. 
+
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -72,8 +74,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Top Ten Student Scholars, College of Engineering, Peking University
 -	Benz Scholarship, Peking University
 -	May Fourth Scholarship, Peking University
-
-
 
 ## Journal Review
 
