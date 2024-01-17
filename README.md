@@ -7,9 +7,9 @@ Peking University, China
 
 
 #### Research Interest: 
-Cooperative State Estimation,	Algebraic Riccati Equation,	Multi-Agent System,
+Cooperative State Estimation,	Algebraic Riccati Equation,
 
-Cooperative Control,	Data-Driven Control	
+Data-Driven Control, Cooperative Control	
 
 
 ## Education
