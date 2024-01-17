@@ -40,7 +40,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-[EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 ## Publications
 **Journal Paper**
 1.	J. Qian, P. Duan, and Z. Duan, Harmonic-copuled Riccati equations and its applications in distributed filtering. (Provisionally accepted as Regular Paper by IEEE TAC)
