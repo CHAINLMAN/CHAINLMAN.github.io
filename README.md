@@ -89,4 +89,5 @@ The essential problems is to handle unknown input to the target system through c
 **Model the Information Fusion in Social Network**
 
 In this work, we want to find some connections between the opinion evolution of social network and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinions in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence to with limited local information. Different from most of the fusion mechanisms studied in the field of social network, the distributed filtering framework uses the error covariance to design the fusion weights. As we know, the error covariance represents the confidence of estimation. Hence, our main concern is that if it is possible to model the information fusion in the opinion evolution of social network from the perspective of distributed filtering, i.e., considering the effect of confidence on the evolution dynamics.
-- [Data Science Blog](https://medium.com/@shawhin)
+
+![Opinion](/assets/img/Opinion.png)
