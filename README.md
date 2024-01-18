@@ -86,6 +86,7 @@ For consensus-based distributed filtering, one common view is that through infin
 
 ## Future Work
 **Design Data-Driven Cooperative Control Framework**
+
 The develpoment of the unmanned system inspired the demand for multiple agents to cooperatively finish large-scale or complex tasks. Compared with centralized design framework that collects global information then design corresponding stabilizing control law, it can be more flexible and robust for multiple agents to communicate and cooperate with neighbours to locally design the control input. For example, consider a planar transportation task where multiple robots are applied to carry a heavy object, it may be time-consuming to send all the information to centralized processor and return the local control law for each robot. Hence, many decentralized and distributed controller design frameworks are extensively studied in the literature to solve the cooperative control problem in an efficient way.  
 While for practical applications, each agent maynot explicitly know the expression of the input matrix, i.e., each agent have no idea of the impact of its own control input on the target system, which makes the model-based design procedure not applicable.
 What's worse, it is also impossible for the agent to identify the model or design control law only with local input and system state data due to the coupling effect of multiple inputs. 
