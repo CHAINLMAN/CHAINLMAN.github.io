@@ -113,8 +113,7 @@ While for practical applications, each agent maynot explicitly know the expressi
 
 The essential problems is to handle unknown input to the target system through cooperation.
 
-<img src="assets/img/cooperation.png" width="100%">
-#![Cooperation](/assets/img/cooperation.png)
+![Cooperation](/assets/img/cooperation1.png)
 
 **Model the Information Fusion in Social Network**
 
