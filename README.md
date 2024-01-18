@@ -15,11 +15,15 @@ Data-Driven Control, Cooperative Control
 
 
 ## Education
-- Ph.D. Candidate,	Dynamical Systems and Control | College of Engineering, Peking University, September 2019 - present.
+- Ph.D. Candidate,	Dynamical Systems and Control 
+
+College of Engineering, Peking University, September 2019 - present.
 
 Supervisor: Prof. Zhisheng Duan.
 
-- B.S.,	Theoretical and Applied Mechanics | College of Engineering, Peking University, September 2015 - July 2019.
+- B.S.,	Theoretical and Applied Mechanics 
+
+College of Engineering, Peking University, September 2015 - July 2019.
 
 ## Work Experience
 **Research Assistant**	
