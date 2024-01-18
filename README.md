@@ -1,9 +1,11 @@
 # Ph.D. Candidate	
 
 Phone: (+86) 188-0012-6636
-College of Engineering	
+
+College of Engineering, Peking University, China	
+
 Email: jcq@pku.edu.cn 
-Peking University, China	
+
 
 
 #### Research Interest: 
@@ -14,7 +16,9 @@ Data-Driven Control, Cooperative Control
 
 ## Education
 - Ph.D. Candidate,	Dynamical Systems and Control | College of Engineering, Peking University, September 2019 - present.
+
 Supervisor: Prof. Zhisheng Duan.
+
 - B.S.,	Theoretical and Applied Mechanics | College of Engineering, Peking University, September 2015 - July 2019.
 
 ## Work Experience
@@ -80,7 +84,7 @@ For consensus-based distributed filtering, one common view is that through infin
 ## Future Work
 **Design Data-Driven Cooperative Control Framework**
 
-While for practical applications, each agent maynot explicitly know the expression of the matrix $B_i$, i.e., each agent have no idea of the impact of its own control input on the target system. It is impossible for the agent to identify the model or design control law only with local input and system state data. The problem is
+While for practical applications, each agent maynot explicitly know the expression of the input matrix, i.e., each agent have no idea of the impact of its own control input on the target system. It is impossible for the agent to identify the model or design control law only with local input and system state data. The problem is with direct or indiret data-driven method to design stabilizing feedback control law. 
 
 The essential problems is to handle unknown input to the target system through cooperation.
 
@@ -88,6 +92,6 @@ The essential problems is to handle unknown input to the target system through c
 
 **Model the Information Fusion in Social Network**
 
-In this work, we want to find some connections between the opinion evolution of social network and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinions in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence to with limited local information. Different from most of the fusion mechanisms studied in the field of social network, the distributed filtering framework uses the error covariance to design the fusion weights. As we know, the error covariance represents the confidence of estimation. Hence, our main concern is that if it is possible to model the information fusion in the opinion evolution of social network from the perspective of distributed filtering, i.e., considering the effect of confidence on the evolution dynamics.
+In this work, we want to study the opinion evolution of social network from the perspective of distributed filtering. Note that everyone in the social network exchanges the information and updates the opinions in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence of reconstructing the global perception with limited local information. Different from most of the fusion mechanisms studied in the field of social network, the distributed filtering framework uses the error covariance to design the fusion weights. As we know, the error covariance represents confidence of the corresponding estimation. Hence, our main concern is that if it is possible to model the information fusion in the opinion evolution of social network from the perspective of distributed filtering, i.e., considering the effect of confidence on the evolution dynamics.
 
 ![Opinion](/assets/img/Opinion.png)
