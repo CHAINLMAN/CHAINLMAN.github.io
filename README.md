@@ -23,6 +23,7 @@ Supervisor: Prof. Zhisheng Duan.
 
 ## Work Experience
 **Research Assistant**	
+
 Department of Electronic and Computer Engineering, 
 
 Hong Kong University of Science and Technology, May 2019 – Aug. 2019, 
