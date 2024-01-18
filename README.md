@@ -111,7 +111,7 @@ For consensus-based distributed filtering, one common view is that through infin
 While for practical applications, each agent maynot explicitly know the expression of the matrix $B_i$, i.e., each agent have no idea of the impact of its own control input on the target system. It is impossible for the agent to identify the model or design control law only with local input and system state data. The problem is
 
 The essential problems is to handle unknown input to the target system through cooperation.
-
+![Cooperation](/assets/img/Cooperation.png)
 **Model the Information Fusion in Social Network**
 
 In this work, we want to find some connections between the dynamic of social network opinion and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinion on some event in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence to with limited local information. Hence, our main concern is that   
