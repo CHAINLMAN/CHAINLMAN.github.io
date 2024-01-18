@@ -112,6 +112,7 @@ While for practical applications, each agent maynot explicitly know the expressi
 
 The essential problems is to handle unknown input to the target system through cooperation.
 ![Cooperation](/assets/img/cooperation.png)
+<img src="assets/img/cooperation.png" width="50%">
 **Model the Information Fusion in Social Network**
 
 In this work, we want to find some connections between the dynamic of social network opinion and the distributed filtering. Note that everyone in the social network exchanges the information and updates the opinion on some event in a distributed way, which is similar to that each sensor node in distributed sensor network fuse locally obtained information to estimate the state of the whole target system. Both of these two scenarios reflect the essence to with limited local information. Hence, our main concern is that   
