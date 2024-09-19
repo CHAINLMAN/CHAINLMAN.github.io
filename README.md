@@ -37,11 +37,11 @@ Supervisor: Prof. Ling Shi.
 ## Project Experience
 **Participant**	
 
-National Natural Science Foundation of China under Grants No. T2121002, “Cooperative Control and Decision of Unmanned Cluster System”.
+National Natural Science Foundation of China under Grants No. T2121002, “Cooperative Control and Decision of Unmanned Cluster System”. 2021.9-2024.7
 
 **Participant** 	
 
-National Key Research and Development Program of China under Grant 2017YFB1301001, “Industrial Robot Controller Product with Performance Optimization and Intelligence Upgrade”. 
+National Key Research and Development Program of China under Grant 2017YFB1301001, “Industrial Robot Controller Product with Performance Optimization and Intelligence Upgrade”. 2017-2019.
 
 ## Publications
 **Journal Paper**
