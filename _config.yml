@@ -5,10 +5,5 @@ plugins:
   - jekyll-remote-theme
 
 markdown: GFM
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Publications"
-    url: /publications/
 #description: text below image
 #show_downloads: true
