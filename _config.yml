@@ -1,5 +1,10 @@
 title: Jiachen Qian
 logo: /assets/img/self.jpg
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
