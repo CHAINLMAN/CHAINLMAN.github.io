@@ -1,9 +1,13 @@
 ---
 layout: default
 title: Home
+nav_order: 1
+permalink: /
 ---
 
-{% include_relative README.md %}
+# Home
+Welcome! Short bio here.  
+Links: [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/YOUR-USERNAME) · [CV (PDF)](/cv.pdf)
 
 **Sections:**  
-[Publications](/publications.md/) · [CV](/cv/) · [Presentations](/presentations/)
+[Publications](/publications/) · [Presentations](/presentations/) · [CV](/cv/)
