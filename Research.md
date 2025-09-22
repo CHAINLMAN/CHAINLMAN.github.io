@@ -1,8 +1,8 @@
----  # publications.md
+---  # research.md
 layout: default
-title: Publications
+title: Research
 nav_order: 2
-permalink: /publications/
+permalink: /Research/
 ---
 
 ## Main Research
