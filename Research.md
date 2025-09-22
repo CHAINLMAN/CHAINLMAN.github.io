@@ -1,3 +1,10 @@
+---  # publications.md
+layout: default
+title: Publications
+nav_order: 2
+permalink: /publications/
+---
+
 ## Main Research
 
 **Harmonic-Coupled Riccati Equations and its Applications in Distributed Filtering**
