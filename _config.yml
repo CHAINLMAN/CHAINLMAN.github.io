@@ -1,6 +1,10 @@
 title: Jiachen Qian
 logo: /assets/img/self.jpg
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+markdown: GFM
 navigation:
   - title: "Home"
     url: /
@@ -8,4 +12,3 @@ navigation:
     url: /publications/
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
