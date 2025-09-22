@@ -10,4 +10,4 @@ Welcome! Short bio here.
 Links: [Google Scholar](https://scholar.google.com/) · [GitHub](https://github.com/YOUR-USERNAME) · [CV (PDF)](/cv.pdf)
 
 **Sections:**  
-[Publications](/publications/) · [Research](/Research/) · [CV](/cv/)
+[Publications](/publications/) · [Research](/research/) · [CV](/cv/)
