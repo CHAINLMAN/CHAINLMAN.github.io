@@ -6,7 +6,7 @@ baseurl: ""  # empty for user site
 remote_theme: just-the-docs/just-the-docs
 
 # Optional extras
-color_scheme: light          # or "dark", "light"
+color_scheme: dark          # or "dark", "light"
 search_enabled: true       # built-in search
 logo: /assets/img/self.jpg  # e.g., /assets/logo.png  (optional)
 
