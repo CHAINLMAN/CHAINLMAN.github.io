@@ -5,9 +5,6 @@ nav_order: 4
 permalink: /publications/
 ---
 
-
-# Publications
-
 ## Publications
 
 **Preprint**
