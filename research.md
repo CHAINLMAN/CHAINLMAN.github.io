@@ -8,6 +8,7 @@ permalink: /research/
 ## Main Research
 
 **Online Prediction for Partially Observed Stochastic System**
+make prediction
 
 **Harmonic-Coupled Riccati Equations and its Applications in Distributed Filtering**
 
