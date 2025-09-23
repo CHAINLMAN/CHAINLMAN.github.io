@@ -18,6 +18,7 @@ permalink: /publications/
 4.	J. Qian, P. Duan, Z. Duan, G. Chen, and L. Shi, Consensus-based distributed filtering with fusion step analysis, Automatica, vol. 142, pp. 110408, 2022.
 5.	P. Duan, J. Qian, Q. Wang, Z. Duan and L. Shi, Distributed state estimation for continuous-time linear systems with correlated measurement noise, IEEE Transactions on Automatic Control, vol. 67, no. 9, pp. 4614-4628, 2022. (Full paper)
 6.	J. Qian, P. Duan and Z. Duan, Fully distributed filtering with a stochastic event-triggered mechanism, IEEE Transactions on Control of Network Systems, vol. 9, no. 2, pp. 753-762, 2022.
+7.	T. Yang, J. Qian, Z. Duan and Z. Sun, Distributed Kalman Filter with Ultimately Accurate Fused Measurement Covariance, IEEE Transactions on Automatic Control, Early access.
  
 **Conference Paper**
 
