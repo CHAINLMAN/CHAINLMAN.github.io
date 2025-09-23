@@ -11,9 +11,16 @@ permalink: /research/
 
 The problem of sequential online prediction of dynamical systems from data is 
 fundamental across many fields and has a long-standing history. Its applications span from control systems, robotics, natural language processing, and computer vision.  
-For linear stochastic system, we can leverage Kalman filter to predict the future system states and observations by properly filtering the past observations. 
+For a linear stochastic system, we can leverage Kalman filter to predict the future system states and observations by properly filtering the past observations. 
 In many applications, however, obtaining explicit models and reliable noise characterizations is impractical, especially when input-output relationships are complex to identify. This has motivated growing interest in learning prediction policies directly from data, without full knowledge of the underlying system.
-From model-based prediction to data-driven approaches, a central challenge is how to parameterize the prediction policy. Instead of identifying an explicit model from data, some recent studies focus on learning a prediction policy directly from input-output data. These methods exploit the Kalman filter's structure and parameterize the prediction policy as a linear function of past inputs and outputs, and then estimate the weights via online learning. In this work, 
+From model-based prediction to data-driven approaches, a central challenge is how to parameterize the prediction policy. Instead of identifying an explicit model from data, some recent studies focus on learning a prediction policy directly from input-output data. These methods exploit the Kalman filter's structure and parameterize the prediction policy as a linear function of past inputs and outputs, and then estimate the weights via online learning. 
+A very interesting result is that by leveraging past outputs for future prediction, if the collected data amount is large enough and the backward horizon is long enough, then the online least square-based predictor can be as close to the optimal model-based Kalman predictor as possible. 
+
+In this work, we notice that the imbalanced nature of the prediction model can easily lead to overfitting and thus degrade prediction accuracy.
+Therefore, we tackle this problem by injecting an inductive bias into the regression model via exponential forgetting to rebalance the regression model properly, then utilize the online least squares-based method to learn this balanced model. Unlike the conventional discounting or forgetting methods that primarily reweight the online data stream, our forgetting approach directly adjusts regression model parameters.
+Moreover, by properly choosing the forgetting factor $\gamma$, our algorithm will guarantee a logarithmic regret with respect to the optimal Kalman filter. While utilizing the forgetting factor may not reduce the order of the logarithmic regret bound, it can effectively reduce the constant in the regret bound. Finally, we demonstrate that the proposed algorithm effectively reduces overfitting by ensuring the regret scales logarithmically with the length of the backward horizon. In contrast, in the absence of forgetting, the regret grows linearly with the backward horizon length.
+
+
 ![Forgetting](/assets/img/Forgetting.jpg)
 
 ---
@@ -22,7 +29,8 @@ From model-based prediction to data-driven approaches, a central challenge is ho
 
 Distributed filtering problem is about to estimated the state of a large-scale dynamical system with spatially distributed sensor networks. The communication among sensor nodes in the network is restricted, which means that at each times step each node can only get access to partial observation information. 
 One of the common problems in distributed filtering is the lack of mathematical tools to reveal the steady-state performance of filtering algorithms with weak local observability. In this work, we managed to formulate a novel kind of matrix equations called harmonic-coupled Riccati equations (HCRE), which contains multiple Riccati-like matrix equations with solutions coupled using harmonic means. We first manage to discover conditions for the existence and uniqueness of solutions to HCRE, then find an iterative law with low computational complexity to obtain the unique group of solutions. Based on this newly established mathematical tool, we further formulate the closed-form expression of the steady-state estimation error covariance of the consensus-on-information-based distributed filtering (CIDF) algorithm into the solution to a discrete-time Lyapunov equation (DLE). This leads to a significant reduction in the conservativeness of traditional performance evaluation techniques for CIDF. The obtained results are remarkable since they not only enrich the theory of coupled Riccati equations but also provide a novel insight into the synthesis and analysis of distributed filtering algorithms. 
-![Communication Topology]({{ '/assets/img/HCRE.png' | relative_url }}){.img-center style="max-width:60%; height:auto;"}
+
+![Communication Topology](/assets/img/HCRE.png)
 
 ---
 
