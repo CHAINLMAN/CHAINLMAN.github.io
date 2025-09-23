@@ -14,6 +14,7 @@ fundamental across many fields and has a long-standing history. Its applications
 For linear stochastic system, we can leverage Kalman filter to predict the future system states and observations by properly filtering the past observations. 
 In many applications, however, obtaining explicit models and reliable noise characterizations is impractical, especially when input-output relationships are complex to identify. This has motivated growing interest in learning prediction policies directly from data, without full knowledge of the underlying system.
 From model-based prediction to data-driven approaches, a central challenge is how to parameterize the prediction policy. Instead of identifying an explicit model from data, some recent studies focus on learning a prediction policy directly from input-output data. These methods exploit the Kalman filter's structure and parameterize the prediction policy as a linear function of past inputs and outputs, and then estimate the~weights via online learning. In this work, 
+![Forgetting](/assets/img/Forgetting.jpg)
 
 ---
 
