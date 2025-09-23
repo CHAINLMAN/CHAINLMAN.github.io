@@ -10,10 +10,14 @@ permalink: /research/
 **Online Prediction for Partially Observed Stochastic System**
 make prediction
 
+---
+
 **Harmonic-Coupled Riccati Equations and its Applications in Distributed Filtering**
 
 One of the common problems in distributed filtering is the lack of mathematical tools to reveal the steady-state performance of filtering algorithms with weak local observability. In this work, we managed to formulate a novel kind of matrix equations called harmonic-coupled Riccati equations (HCRE), which contains multiple Riccati-like matrix equations with solutions coupled using harmonic means. We first manage to discover conditions for the existence and uniqueness of solutions to HCRE, then find an iterative law with low computational complexity to obtain the unique group of solutions. Based on this newly established mathematical tool, we further formulate the closed-form expression of the steady-state estimation error covariance of the consensus-on-information-based distributed filtering (CIDF) algorithm into the solution to a discrete-time Lyapunov equation (DLE). This leads to a significant reduction in the conservativeness of traditional performance evaluation techniques for CIDF. The obtained results are remarkable since they not only enrich the theory of coupled Riccati equations but also provide a novel insight into the synthesis and analysis of distributed filtering algorithms. 
-![Communication Topology](/assets/img/HCRE.png)
+![Communication Topology]({{ '/assets/img/HCRE.png' | relative_url }}){: width="400"}
+
+---
 
 **Optimality Analysis: Bridging the Centralized Kalman Filtering and Consensus-based Distributed Filtering**
 
